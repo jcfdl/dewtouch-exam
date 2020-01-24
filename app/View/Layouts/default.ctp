@@ -54,6 +54,7 @@ Purchase: http://themeforest.net/item/metronic-responsive-admin-dashboard-templa
    		
    		echo $this->Html->css('/metronic_new/css/pages/invoice');
    		echo $this->Html->css('/metronic_new/css/print',null,array('media'=>'print'));
+      echo $this->Html->css('/metronic_new/css/custom');
    		
    ?>
  
